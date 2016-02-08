@@ -143,7 +143,7 @@ Fyfe’s  How To Not Read a Victorian Novel)
 + -in class workshop: source management, and bibliometrics with Zotero
 and Paper Machines
 
-discussion and outline: Lanie, Nithya; close reading: Gaby, Corey, Adrianna; criticism summary: Anna (Ramsay); seminar
+discussion and outline: Lanie, Nithya; close reading: Gaby, Corey, Adrianna; criticism summary: Anna (Ramsay), Lanie (Miller); seminar
 paper: Yumi, RJ; break: Yumi
 
 #### February 15: optional but recommended Zotero and Paper Machines
@@ -211,7 +211,7 @@ Computer Classroom, 1-4 pm
 + before class: post to Known about indexing *Our Mutual Friend*
 + data viz discussion with PJ: follow up
 
-discussion and outline: Adriana, RJ; close reading: Anna, Corey; criticism summary: Gaby, Nithya; seminar
+discussion and outline: Adriana, RJ; close reading: Anna, Corey, Lanie; criticism summary: Gaby, Nithya; seminar
 paper: ; break: Lanie, Anna
 
 #### March 7: spring break (read *Hard Cash*)
@@ -238,7 +238,7 @@ Know*
 Temptation*
 + in-class workshop preparation: open notebooks
 
-discussion and outline: ? ? ; close reading: Nithya, RJ ; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
+discussion and outline: Lanie, ? ; close reading: Nithya, RJ ; criticism summary: Corey, Adriana; seminar
 paper: Anna, Yumi, Luke; break: Luke
 
 #### March 21: optional but recommended open lab, McCabe Computer
